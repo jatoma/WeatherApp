@@ -1,0 +1,6 @@
+framework module ManagedOperation {
+  umbrella header "ManagedOperation-umbrella.h"
+
+  export *
+  module * { export * }
+}

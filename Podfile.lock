@@ -1,0 +1,10 @@
+PODS:
+  - ManagedOperation (0.7.0)
+
+DEPENDENCIES:
+  - ManagedOperation
+
+SPEC CHECKSUMS:
+  ManagedOperation: 76abeb829768458be38419b9c3a8a348b46577a7
+
+COCOAPODS: 0.39.0
